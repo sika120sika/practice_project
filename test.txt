@@ -1,5 +1,11 @@
-git add → ローカルに追加待機
+git プッシュのやり方
+
+git add 任意のファイル→ ローカルに追加待機
 ↓
-git commit　→　ローカルに追加
+git commit -m ""→　ローカルに追加
 ↓
-git push →　クラウドに追加
+git push origin main→　クラウドに追加
+
+git プルのやり方
+
+git pull origin main→　クラウドの情報をダウンロード
