@@ -1,1 +1,5 @@
-aho
+git add → ローカルに追加待機
+↓
+git commit　→　ローカルに追加
+↓
+git push →　クラウドに追加
