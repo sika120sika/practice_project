@@ -9,3 +9,8 @@ git push origin main→　クラウドに追加
 git プルのやり方
 
 git pull origin main→　クラウドの情報をダウンロード
+
+git 間違えてファイルを消したときの対処
+
+git reset --hard HEAD→　ローカルリポジトリの状態に、フォルダの内容を戻す
+git reset --hard origin/main→クラウドの状態に、フォルダの内容を戻す
